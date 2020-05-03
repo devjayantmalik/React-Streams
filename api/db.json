@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "title": "First Stream",
+      "description": "This is the first stream.",
+      "id": 1
+    },
+    {
+      "description": "Here is some stream",
+      "title": "Other Stream",
+      "id": 2
+    },
+    {
+      "title": "Hello, World",
+      "description": "Hey Hello world stream has been updated.",
+      "id": 3
+    }
+  ]
+}
